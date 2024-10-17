@@ -1,0 +1,51 @@
+.film{
+    width: auto;
+    border: 1px solid gray;
+    height: 80px;
+    background-color: antiquewhite;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.zdj{
+    float: left;
+    height: 60px;
+    margin: 10px;
+}
+img{
+    height: 60px;
+}
+.nazwa{
+    float: left;
+    height: 80px;
+}
+.tytul{
+    font-weight: bold;
+    width: 100%;
+}
+.gatunek{
+    color: gray;
+}
+.premiera{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    margin: 10px;
+}
+.nie{
+color: antiquewhite;
+}
+.czas{
+    background-color: lightgray;
+    font-weight: bold;
+    margin: 10px;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+}
+.container{
+    width: 60%;
+    float: left;
+    height: 80px;
+}
