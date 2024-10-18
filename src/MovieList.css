@@ -33,6 +33,29 @@ img{
     float: right;
     margin: 10px;
 }
+.dldzieci{
+    background-color:blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    margin: 10px;}
+.stud{
+    background-color:deepskyblue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    margin: 10px;}
+
+.salas{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    float: right;
+    margin: 10px;
+}
 .nie{
 color: antiquewhite;
 }
